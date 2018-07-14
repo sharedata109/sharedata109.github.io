@@ -1,0 +1,16 @@
+HTTrack3.49-2 launched on Fri, 06 Jul 2018 16:42:20 at http://modi.get-laptop-now.in/step2.php +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/...hdhdh -A25000k%Px%q0u1s2%s%u%fDaK0p3H0N0 http://modi.get-laptop-now.in/step2.php +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:42:31	Error: 	"Not Found" (404) at link modi.get-laptop-now.in/index.php (from modi.get-laptop-now.in/step2.php)
+16:42:31	Error: 	"Not Found" (404) at link modi.get-laptop-now.in/cdn.gsmarena.com/imgroot/news/16/02/freedom-251/-728/gsmarena_001.jpg (from modi.get-laptop-now.in/step2.php)
+16:42:31	Warning: 	Retry after error -4 (No data (connection closed)) at link modi.get-laptop-now.in/modi.jpg (from modi.get-laptop-now.in/step2.php)
+16:42:33	Error: 	"Not Found" (404) at link modi.get-laptop-now.in/js/vendor/jquery.min.html (from modi.get-laptop-now.in/step2.php)
+16:42:44	Error: 	"Not Found" (404) at link modi.get-laptop-now.in/images/bg1.jpg (from modi.get-laptop-now.in/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 15 links scanned, 9 files written (308527 bytes overall) [304917 bytes received at 12704 bytes/sec], 15093 bytes transferred using HTTP compression in 3 files, ratio 38%, 2.1 requests per connection
+(4 errors, 1 warnings, 0 messages)
